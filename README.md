@@ -28,3 +28,24 @@ Parts:
 | M3 Screw and Nut Kit | 7.91 | https://www.aliexpress.us/item/3256808477927081.html?spm=a2g0o.productlist.main.9.569b5efccLAawv&algo_pvid=6f5b4206-1f66-4977-8bc2-a6b5b7ece8a6&algo_exp_id=6f5b4206-1f66-4977-8bc2-a6b5b7ece8a6-8&pdp_ext_f=%7B%22order%22%3A%228%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%215.32%215.32%21%21%215.32%215.32%21%402101ca9517923740378271192e0f93%2112000046148370210%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A1092fe7e%3Bm03_new_user%3A-29895&curPageLogUid=7Gwdt0wlP8cN&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008664241833%7C_p_origin_prod%3A |
 | Tax and Shipping | 16.08 |  |
 | Total | 63.65 | |
+
+
+Connections:
+1) Connect the Base Disk 1 to the 3 cm standoffs and, on top of that, place the base disk that has holes for the servo
+2) Connect the servo to that base disk
+3) Place 1 cm standoffs on their respective holes, and connect the next base disk
+4) Connect the Servo to the servo arm
+5) Place the big cylinder freestanding in the center
+6) Connect the servo arm to the cylinder
+7) Add the last base disk on top
+8) Place the shoulder servo bracket on top
+9) Connect the Servo and Servo Arm
+10) Connect the shoulder U bracket
+11) Connect the Bicep bottom U bracket
+12) Connect the Servo to that
+13) Connect the Bicep top bracket
+14) Connect the Wrist U bracket
+15) Connect the servo and Servo Arm
+16) Connect the hand U Bracket
+17) Connect the Gear and Gear pieces
+18) Connect the Servo at the End 
