@@ -1,6 +1,8 @@
 # Robo_Arm
 A robot arm
 
+CAD Document: https://cad.onshape.com/documents/f34527b56647466d89ce7569/w/5220c680e211ef186ea40329/e/83a75c2d30c398b04529bd0e
+
 This project is a 4-axis Robotic Arm. It has 4 motors: 1 for the turning, one for the shoulder, one for the bicep, and one for the claw. 
 It has a very small claw, so it is more for show than for functionality. 
 It is connected to a simple Arduino Elegoo Uno and will be controlled by 2 joysticks.
